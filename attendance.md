@@ -8,3 +8,8 @@
 
 ### Adwait Thattey
 - [X] Git 101
+
+
+### Ashutosh Tiwari
+- [X] Git 101
+- [ ] JavaScript
